@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: #d6d6d6;
+    background-color: #808080;
 }
 
 h1 {
@@ -33,16 +33,15 @@ section>h2 {
 }
 
 section.importance>h2 {
-    background-color: #76b8db;
+    background-color: #008080;
 }
 
 section.what>h2 {
-    background-color: #4f7acd;
+    background-color: #ffd1dc;
 }
 
 section.todo>h2 {
-    color: #e2e2e2;
-    background-color: #10328a;
+    background-color: #77dd77;
 }
 
 section>p {
